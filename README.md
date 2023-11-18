@@ -11,9 +11,16 @@ boppin.mp3 is [this](https://youtu.be/BbKAObQ0sao). (Lightyear by Bxnji sped up 
 ## then what is wat.png?
 cover art for boppin.mp3
 
-### Requirements
+## Requirements
 Pyglet. That's all you need to run this.
 
-### thanks for reading the readme!
+## running the program
+```batch
+pip install pyglet
+python ./main.py
+```
+
+
+## thanks for reading the readme!
 
 Feel free to fork and add on!
