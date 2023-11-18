@@ -10,6 +10,8 @@ boppin.mp3 is [this](https://youtu.be/BbKAObQ0sao). (Lightyear by Bxnji sped up 
 ## then what is wat.png?
 cover art for boppin.mp3
 
+### Requirements
+Pyglet. That's all you need to run this.
 
 ### thanks for reading the readme!
 
